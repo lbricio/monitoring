@@ -1,0 +1,4 @@
+intra	HTTP	intra.42.fr	GET	200	120
+game	PING	game.42sp.org.br	60
+workspaces	PING	workspaces.42sp.org.br	60
+youtube	DNS	https://youtube.com	200	8.8.8.8
