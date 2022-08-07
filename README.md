@@ -4,7 +4,7 @@
 
 ### what is monitoring?
 
-a simple application to monitoring any services specified by user, can be either local host or web. monitoring continuously send HTTP/PING/DNS request to address specifies in config file `monitoring.db`, the HTTP and DNS request are made using cURL C API, and PING request are made by using local default PING service.
+a simple application to monitoring any services specified by user, can be either local host or web. monitoring continuously send HTTP/PING/DNS requests to address specifies in config file `monitoring.db`, the HTTP and DNS requests are made using cURL C API, and PING request are made by using local default PING bin.
 
 `monitoring.db` should follow a specific set of ruls defined below in docummentation.
 
