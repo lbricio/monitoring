@@ -1,4 +1,4 @@
-## 42 Labs 3º Edição
+## Monitoring
 
 <img width="300" alt="image" src="https://user-images.githubusercontent.com/81334995/182636898-62326309-62e7-43eb-ba52-03210c27b59d.png">
 
